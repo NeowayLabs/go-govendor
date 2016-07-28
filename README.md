@@ -1,2 +1,2 @@
 # go-govendor
-A Docker image with Golang and Govendor
+A Docker image with Golang 1.6 and Govendor
